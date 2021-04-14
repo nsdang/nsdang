@@ -33,8 +33,8 @@ Get to know more about me [here](https://nsdang.com/).
 
 <h3>👀 &nbsp;GitHub Stats</h3>
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nsdang&show_icons=true" alt="nsdang_GitHubStats" />
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsdang&layout=compact" alt="nsdang_TopLangs" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nsdang&show_icons=true&theme=synthwave" alt="nsdang_GitHubStats" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsdang&layout=compact&theme=synthwave" alt="nsdang_TopLangs" />
 
 <h3>📫 &nbsp;How to reach me:</h3>
 
