@@ -4,6 +4,7 @@
 
 Get to know more about me [here](https://nsdang.com/).
 
+<br/>
 
 <h3>🥞 &nbsp;Tech Stack</h3>
 
@@ -35,6 +36,8 @@ Get to know more about me [here](https://nsdang.com/).
 
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=nsdang&show_icons=true&theme=dracula" alt="nsdang_GitHubStats" />
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nsdang&layout=compact&theme=dracula" alt="nsdang_TopLangs" />
+
+<br/>
 
 <h3>📫 &nbsp;How to reach me:</h3>
 
