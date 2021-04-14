@@ -10,7 +10,7 @@ Get to know more about me [here](https://nsdang.com/).
 
 - Frontend: &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Angular](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=purple)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
 - Backend: &nbsp;
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![GraphQL](https://img.shields.io/badge/-Graph%20QL-333333?style=flat&logo=graphql&logoColor=magenta)
